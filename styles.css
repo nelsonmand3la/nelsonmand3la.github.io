@@ -5,7 +5,8 @@ img {
 body {
     text-align: center;
     font-family: "Comic Sans MS";
-    background: green;
+    background-image: url(https://media1.giphy.com/media/aeIXnJex7xPEY/giphy.gif);
+    background-size: 300px 100px;
     color: red;
 }
 
